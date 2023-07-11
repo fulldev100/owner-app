@@ -1,0 +1,65 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/Notification_icon.png",
+          "iosDisplayInForeground": true
+        }
+      ]
+    ],
+    "name": "Fitness Gym",
+    "slug": "gym-app",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "2.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "versionCode": 13,
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "CAMERA",
+        "MEDIA_LIBRARY",
+        "CAMERA_ROLL",
+        "NOTIFICATIONS",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
+      "package": "com.pushnifty.gymapp"
+    },
+    "ios": {
+      "buildNumber": "14",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Allow 24hr-fitness App to access carema to scan QR code."
+      },
+      "bundleIdentifier": "com.pushnifty.gymapp",
+      "supportsTablet": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2fd5391b-2fcd-48af-9399-104117b628f2"
+      }
+    },
+    "owner": "alexivanovic1001"
+  }
+}

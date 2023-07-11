@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335330945080",
+    "project_id": "wp-gym-94429",
+    "storage_bucket": "wp-gym-94429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335330945080:android:6337556da8edb36a9c1ecd",
+        "android_client_info": {
+          "package_name": "com.pushnifty.gymapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335330945080-qnse8juc3k06iooosg3q531c535rktsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfVl9dBdXTyX1eni0NBf1TeDcoBD9upBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335330945080-qnse8juc3k06iooosg3q531c535rktsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

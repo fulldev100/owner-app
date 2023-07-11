@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>155915444292-kfj1n0sgj7pmisgshhl7b2tk9fiha9tf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.155915444292-kfj1n0sgj7pmisgshhl7b2tk9fiha9tf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDt1okJ0YYY7CMr9TEnVOUlCyA1rxgJS28</string>
+	<key>GCM_SENDER_ID</key>
+	<string>155915444292</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pushnifty.gymapp</string>
+	<key>PROJECT_ID</key>
+	<string>wpgym-1e6e5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wpgym-1e6e5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:155915444292:ios:937463e29ea090590f5c11</string>
+</dict>
+</plist>
