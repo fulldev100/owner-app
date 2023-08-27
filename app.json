@@ -9,8 +9,8 @@
         }
       ]
     ],
-    "name": "Fitness Gym",
-    "slug": "gym-app",
+    "name": "Fitness Owner",
+    "slug": "gym-owner",
     "privacy": "public",
     "platforms": [
       "ios",
@@ -42,7 +42,7 @@
         "READ_EXTERNAL_STORAGE",
         "WRITE_EXTERNAL_STORAGE"
       ],
-      "package": "com.pushnifty.gymapp"
+      "package": "com.gym.owner"
     },
     "ios": {
       "buildNumber": "14",
@@ -57,7 +57,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "2fd5391b-2fcd-48af-9399-104117b628f2"
+        "projectId": "cc28d13e-ecae-40a5-a677-21f1a5e4cd6b"
       }
     },
     "owner": "alexivanovic1001"
